@@ -1,20 +1,14 @@
 ## Sales Performance Analysis
 
 ### Objective
-Analyze sales data to identify trends across regions and product categories.
+Analyze sales data to evaluate regional and category-wise performance.
 
 ### Tools Used
 - Microsoft Excel
-- Python (Pandas, Matplotlib)
+- Python
 
 ### Work Done
-- Analyzed sales data using Pivot Tables
-- Grouped and summarized data using Pandas
-- Created visualizations to represent sales trends
-
-### Key Insights
-- Certain regions showed higher sales
-- Monthly sales trends were identified
-
-### Dataset
-Sample sales dataset
+- Analyzed a large sales dataset using Excel
+- Used Pivot Tables to summarize sales by region and category
+- Used Python to validate trends and perform aggregations
+- Created basic visualizations to support business insights
